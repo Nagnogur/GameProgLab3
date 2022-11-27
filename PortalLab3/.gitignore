@@ -58,5 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-!/[Ll]ibrary/StateCache/
-!/[Ll]ibrary/LastSceneManagerSetup.txt
+# !/[Ll]ibrary/StateCache/
+# !/[Ll]ibrary/LastSceneManagerSetup.txt
