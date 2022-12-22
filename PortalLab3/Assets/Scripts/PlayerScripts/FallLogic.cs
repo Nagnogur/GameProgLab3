@@ -24,6 +24,7 @@ public class FallLogic : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             playerMovement.PlayerHealth = -1;
+            Debug.Log(playerMovement.PlayerHealth);
         }
     }
 }
